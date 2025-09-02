@@ -1,4 +1,4 @@
-# ⚗️ ReTiNA-1: Automated LC-MS Retention Time Modeling
+# ReTiNA-1: Automated LC-MS Retention Time Modeling
 
 ReTiNA-1 is a large open-source dataset and collection of machine learning models in active development for predicting small molecule retention times in LC-MS workflows.
 
