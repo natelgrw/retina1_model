@@ -39,7 +39,7 @@ Detailed information on the data sources comprising the ReTiNA dataset can be fo
 If you use the ReTiNA dataset in a project, please cite the following:
 
 ```
-@dataset{natelgrwretina1dataset,
+@dataset{natelgrwretinadataset,
   title={ReTiNA: A Benchmark Dataset for LC-MS Retention Time Modeling},
   author={Leung, Nathan},
   institution={Coley Research Group @ MIT}
